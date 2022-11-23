@@ -1,5 +1,5 @@
 ### Project
 
-- [motusresolveur.com](motusresolveur.com) — résolveur de motus
-- [loremlipsum.com](loremlipsum.com) — librairie de lorem ipsum
-- [peersian.com](peersian.com) — appel vidéo peer to peer
+- Résolveur de motus — [motusresolveur.com](motusresolveur.com)
+- Librairie de lorem ipsum — [loremlipsum.com](loremlipsum.com)
+- Appel vidéo peer to peer — [peersian.com](peersian.com)
