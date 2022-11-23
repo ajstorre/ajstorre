@@ -1,5 +1,5 @@
 ### Project 👨‍💻
 
-- (motusresolveur.com)  
-- (loremlipsum.com)  
-- (peersian.com)  
+- [motusresolveur.com](motusresolveur.com)  
+- [loremlipsum.com](loremlipsum.com)  
+- [peersian.com](peersian.com)  
