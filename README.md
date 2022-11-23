@@ -1,4 +1,4 @@
-### Project 👨‍💻
+### 👨‍ Project
 
 - [motusresolveur.com](motusresolveur.com)  
 - [loremlipsum.com](loremlipsum.com)  
