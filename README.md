@@ -1,4 +1,4 @@
-#### 👨‍💻 Projects
+## 👨‍💻 Projects
 
 - Résolveur de Motus ➡️ [motusresolveur.com](motusresolveur.com)
 - Librairie de Lorem Ipsum ➡️ [loremlipsum.com](loremlipsum.com)
