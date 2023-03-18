@@ -1,4 +1,4 @@
-### 🟢 Projets
+### 🟢 WebApps
 
 - Résolveur de Motus ➡️ [motusresolveur.com](https://motusresolveur.com/)
 - Librairie de Lorem Ipsum ➡️ [loremlipsum.com](https://loremlipsum.com/)
