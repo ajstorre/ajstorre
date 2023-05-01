@@ -5,5 +5,5 @@
 - Peer to Peer video call ➡️ [peersian.com](https://peersian.com/)
 - QR Code generator ➡️ [qrcoode.com](https://qrcoode.com/)
 - Crypto wallet address manager ➡️ [l0xs.com](https://l0xs.com/)
-- AI Domains Marketplace ➡️ [domainforai.com](https://domainforai.com/)
+- AI Domain Marketplace ➡️ [domainforai.com](https://domainforai.com/)
 
