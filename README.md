@@ -6,4 +6,4 @@
 - QR Code generator ➡️ [qrcoode.com](https://qrcoode.com/)
 - Crypto wallet address manager ➡️ [l0xs.com](https://l0xs.com/)
 - AI Domain Marketplace ➡️ [domainforai.com](https://domainforai.com/)
-- SimpleNote Extension ➡️ [chrome.google.com]([https://domainforai.com/](https://chrome.google.com/webstore/detail/simplenote/pceognepcdemhpjlocebidlmnagandon?hl=fr))
+- SimpleNote Extension ➡️ [chrome.google.com](https://chrome.google.com/webstore/detail/simplenote/pceognepcdemhpjlocebidlmnagandon?)
