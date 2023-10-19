@@ -8,3 +8,4 @@
 - Crypto wallet address manager ➡️ [l0xs.com](https://l0xs.com/)
 - AI Domain Marketplace ➡️ [domainforai.com](https://domainforai.com/)
 - SimpleNote Extension ➡️ [chrome.google.com/SimpleNote](https://chrome.google.com/webstore/detail/simplenote/pceognepcdemhpjlocebidlmnagandon?)
+- Calculatorre Extension ➡️ [chrome.google.com/Calculatorre](https://chromewebstore.google.com/detail/calculatorre/pibpdnadhhlecnncimjgcfighigpcjjb?hl=fr)
