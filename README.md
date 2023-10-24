@@ -9,3 +9,4 @@
 - AI Domain Marketplace ➡️ [domainforai.com](https://domainforai.com/)
 - SimpleNote Extension ➡️ [chrome.google.com/SimpleNote](https://chrome.google.com/webstore/detail/simplenote/pceognepcdemhpjlocebidlmnagandon?)
 - Calculatorre Extension ➡️ [chrome.google.com/Calculatorre](https://chromewebstore.google.com/detail/calculatorre/pibpdnadhhlecnncimjgcfighigpcjjb?hl=fr)
+- Countdown Event Extension ➡️ [chrome.google.com/Countdown Event](https://chrome.google.com/webstore/detail/countdown-event/lgikfjfacmpjinepjiopdcfkclabdahb?hl=fr&authuser=3)
