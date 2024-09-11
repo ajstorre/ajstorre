@@ -14,3 +14,5 @@
 - YouBlocker Extension (AdBlock for Youtube) ➡️ [chrome.google.com/youblocker](https://chrome.google.com/webstore/detail/youblocker/khplgcfcmalolfkblneflibkmamgogom?hl=fr&authuser=3)
 - Laposte.net AdBlock Extension (AdBlock pour laposte.net) ➡️ [chrome.google.com/laposte.net adblock](https://chromewebstore.google.com/u/3/detail/lapostenet-adblock/dpkdppkmlcljfddnbebpoddeehjfjjce)
 - Base64ToPNG (Convert base64 image to png) ➡️ [base64topng.com](https://base64topng.com/)
+- JocondeAI (AI image generator) ➡️ [jocondeai.com](https://jocondeai.com/)
+- WebFill (AI-powered extension for form/email filling, MCQs solving, completing surveys) ➡️ [webfill.co](https://webfill.co/)
