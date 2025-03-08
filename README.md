@@ -16,3 +16,4 @@
 - Base64ToPNG (Convert base64 image to png) ➡️ [base64topng.com](https://base64topng.com/)
 - JocondeAI (AI image generator) ➡️ [jocondeai.com](https://jocondeai.com/)
 - WebFill (AI-powered extension for form/email filling, MCQs solving, completing surveys) ➡️ [webfill.co](https://webfill.co/)
+- MassInvoices (download all your Stripe invoice in one click) ➡️ [massinvoices.com](https://massinvoices.com/)
